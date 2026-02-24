@@ -1,5 +1,5 @@
 {
-  "id": "google-gemini-cli-auth",
+  "id": "gemini-13623",
   "providers": ["gemini-pro", "gemini-flash", "gemini-lite"],
   "configSchema": {
     "type": "object",

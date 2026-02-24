@@ -32,7 +32,7 @@ const ENV_VARS = [
 ];
 
 const geminiCliPlugin = {
-  id: "google-gemini-cli-auth",
+  id: "gemini-13623",
   name: "Google Gemini CLI Auth",
   description: "OAuth flow for Gemini CLI (Google Code Assist)",
   configSchema: emptyPluginConfigSchema(),
