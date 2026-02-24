@@ -1,0 +1,9 @@
+{
+  "id": "gemini-13623",
+  "providers": ["gemini-pro", "gemini-flash", "gemini-lite"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
