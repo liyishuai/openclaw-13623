@@ -1,5 +1,5 @@
 {
-  "name": "@openclaw/gemini-13623",
+  "name": "@ysli/gemini-13623",
   "version": "2026.2.23",
   "private": true,
   "description": "OpenClaw Gemini CLI OAuth provider plugin",
